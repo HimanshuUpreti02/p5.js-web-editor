@@ -150,6 +150,7 @@
       "AutocloseBracketsQuotes": "括弧を自動的に閉じる",
       "AutocloseBracketsQuotesOnARIA": "括弧を自動的に閉じる オン",
       "AutocloseBracketsQuotesOffARIA": "括弧を自動的に閉じる オフ",
+      "AutocompleteHinter" : "オートコンプリートヒンター",
       "WordWrap": "ワードラップ",
       "LineWrapOnARIA": "ラインラップ オン",
       "LineWrapOffARIA": "ラインラップ オフ",

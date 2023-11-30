@@ -155,6 +155,7 @@
     "AutocloseBracketsQuotes": "Auto-chiusura parentesi e virgolette",
     "AutocloseBracketsQuotesOnARIA": "Auto-chiusura parentesi e virgolette attivo",
     "AutocloseBracketsQuotesOffARIA": "Auto-chiusura parentesi e virgolette disabilitata",
+    "AutocompleteHinter" : "Suggerimento di completamento automatico",
     "WordWrap": "Dividi parole",
     "LineWrapOnARIA": "dividi parole attivo",
     "LineWrapOffARIA": "dividi parole disabilitato",

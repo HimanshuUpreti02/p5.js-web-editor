@@ -155,6 +155,7 @@
     "AutocloseBracketsQuotes": "Parantez ve Tırnakları Otomatik Kapat",
     "AutocloseBracketsQuotesOnARIA": "parantez ve tırnakları otomatik kapatma açık",
     "AutocloseBracketsQuotesOffARIA": "parantez ve tırnakları otomatik kapatma kapalı",
+    "AutocompleteHinter" : "Otomatik Tamamlama İpucu",
     "WordWrap": "Sözcük Kaydırma",
     "LineWrapOnARIA": "satır kaydırma açık",
     "LineWrapOffARIA": "satır kaydırma kapalı",

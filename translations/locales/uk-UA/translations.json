@@ -150,6 +150,7 @@
     "AutocloseBracketsQuotes": "Автоматично закривати дужки та лапки",
     "AutocloseBracketsQuotesOnARIA": "автоматично закривати дужки та лапки",
     "AutocloseBracketsQuotesOffARIA": "автоматично закривати дужки та лапки",
+    "AutocompleteHinter" : "Підказка для автозаповнення",
     "WordWrap": "Перенесення слів",
     "LineWrapOnARIA": "перенесення рядків увімкнено",
     "LineWrapOffARIA": "перенесення рядків вимкнено",

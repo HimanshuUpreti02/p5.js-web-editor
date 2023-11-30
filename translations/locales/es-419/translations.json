@@ -148,6 +148,7 @@
     "AutocloseBracketsQuotes": "Cerrar automáticamente llaves y comillas",
     "AutocloseBracketsQuotesOnARIA": "Activar cierre automático de llaves y comillas",
     "AutocloseBracketsQuotesOffARIA": "Desactivar cierre automático de llaves y comillas",
+    "AutocompleteHinter" : "Sugerencia de autocompletar",
     "Off": "Desactivar",
     "AutosaveOffARIA": "Grabado automático desactivado",
     "WordWrap": "Ajuste automático de línea",
